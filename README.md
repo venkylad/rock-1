@@ -1,6 +1,6 @@
 # Rockmetric Assignment 1
 
-## Deployed Link, can have a look at website here
+## Deployed Link, can have a look at website here at https://csb-svc49o.netlify.app/
 
 ## 1. Clone the website
 
