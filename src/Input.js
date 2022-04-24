@@ -22,7 +22,7 @@ export const Input = ({
           onChange={onChange}
           placeholder={placeholder}
         />
-        {error && value === "" && (
+        {error && (value === "" || value === null) && (
           <div className="text-danger">Need {label}</div>
         )}
       </div>
