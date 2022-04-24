@@ -9,7 +9,7 @@ export default function App() {
     lastName: "",
     email: "",
     gender: "",
-    age: null,
+    age: 18,
     married: "",
     school: "",
     inter: "",
